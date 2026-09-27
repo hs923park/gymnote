@@ -1,0 +1,6 @@
+title: 짐노트(GymNote)
+description: 짐노트 지원 · 개인정보처리방침
+lang: ko
+theme: jekyll-theme-primer
+exclude:
+  - README.md
